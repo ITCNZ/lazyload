@@ -1,0 +1,5 @@
+.aboutDown{ border-bottom:1px solid #f0f0f0; margin:8px; padding:10px;display:-webkit-box;display:box;}
+.aboutDown .gamePic,.gamePic img{ display:block; width:62px; height:62px;}
+.aboutDown .info{-webkit-box-flex:1;box-flex:1; margin:0 8px;}
+.aboutDown .down{ display:block; width:60px; height:28px; line-height:28px; margin:16px 0 16px 8px; overflow: hidden;white-space: nowrap;text-overflow: ellipsis;border-radius:3px; border:1px solid #3266cc; color:#3266cc; text-align:center; font-size:14px;}
+.aboutDown .info p{ overflow:hidden; white-space:nowrap; text-overflow:ellipsis; height:18px; line-height:18px; font-size:14px;}.aboutDown .info h1,.info .gameTop{ position:relative;height:22px; margin-bottom:2px; line-height:22px;}.aboutDown .info .gameMod{margin-bottom:2px;}
